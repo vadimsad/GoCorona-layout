@@ -750,21 +750,12 @@ body{
     &__items {
         display: flex;
         max-width: 980px;
-        margin: 0 -36px;
-        //gap: 72px;
-    }
-
-    &__item {
-        
     }
 }
 .block-text {
 
     &_center {
         text-align: center;
-    }
-
-    &__title {
     }
 
     &__text {
@@ -818,10 +809,9 @@ body{
         align-items: center;
     }
 
-    &__item {
-    }
-
     &__items{
+        display: flex;
+        align-items: center;
     }
 }
 
