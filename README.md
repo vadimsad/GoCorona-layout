@@ -2,7 +2,7 @@
 
 ---
 
-##  The first layout that I made fully by myself
+##  The first layout that I made almost by myself
 
 ### Tech stack:
 - **HTML5**
